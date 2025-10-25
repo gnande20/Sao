@@ -1,0 +1,41 @@
+# === GODOT ENGINE ===
+# Dossiers et fichiers temporaires générés automatiquement par Godot
+.import/
+export/
+.cache/
+*.import
+*.tmp
+*.log
+
+# === SYSTEME / OS ===
+# Fichiers système inutiles
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === BACKUPS ET CONFIG ===
+*.bak
+*.old
+*.orig
+
+# === FICHIERS DE BUILD ===
+# (si tu exportes ton jeu sur Windows/Linux/Android/iOS)
+build/
+bin/
+*.exe
+*.apk
+*.aab
+*.pck
+*.zip
+*.tar.gz
+
+# === VISUAL STUDIO CODE ===
+.vscode/
+.vs/
+
+# === GODOT ADDONS ===
+# (optionnel : si tu veux ignorer les addons téléchargés)
+# addons/
+
+# === ENVIRONNEMENT ===
+.env
