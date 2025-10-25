@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("Mode Créateur")]
     public bool isCreator = false;
-    private string creatorName = "Kouakou";  // Ton nom spécial
+    private string creatorName = "Camille";  // Ton nom spécial
     private string creatorCode = "ADMINSAO2025"; // Ton code secret
 
     private SpriteRenderer spriteRenderer;
